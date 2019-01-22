@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Request"
+          android:icon="@drawable/tak"
+          android:id="@+id/itemRequest"/>
+    <item android:title="Handle"
+          android:icon="@drawable/tak2"
+          android:id="@+id/itemHendle"/>
+    <item android:title="Complate"
+          android:icon="@drawable/tak3"
+          android:id="@+id/itemComplate"/>
+
+</menu>
